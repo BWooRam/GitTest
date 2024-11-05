@@ -56,3 +56,5 @@ fun GitTestTheme(
         content = content
     )
 }
+
+fun GitTestTheme2(){}
