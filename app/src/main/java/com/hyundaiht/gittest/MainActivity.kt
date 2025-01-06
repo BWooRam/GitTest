@@ -67,3 +67,19 @@ fun GreetingPreview() {
         Greeting("Android")
     }
 }
+
+@Preview(showBackground = true)
+@Composable
+fun GreetingPreview2() {
+    GitTestTheme {
+        Greeting("Android")
+    }
+}
+
+@Preview(showBackground = true)
+@Composable
+fun GreetingPreview3() {
+    GitTestTheme {
+        Greeting("Android")
+    }
+}
